@@ -6,6 +6,14 @@ body{
     justify-content: center;
     width: 100%;
 }
+div{
+	width:100%;
+}
+img{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+}
 
 .book-library{
     background-color: #ffffff;
