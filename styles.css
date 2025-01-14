@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+body{
+    background-color:   #f8f8f8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.book-library{
+    background-color: #ffffff;
+}
+.price{
+    height: 25px;
+    width: 100%;
+    padding: 10px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: greenyellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button:hover{
+    background-color: #ffffff;
+}
+
